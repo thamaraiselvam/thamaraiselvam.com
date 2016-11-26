@@ -659,7 +659,7 @@ body {
     background-image: url("../images/thamaraiselvam.jpeg");
     background-size: cover;
     background-position: center top;
-    background-repeat: t
+    background-repeat: repeat !important;
     opacity: 0
 }
 
